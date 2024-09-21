@@ -1,6 +1,6 @@
 This folder contains the Mathematica code for the MOCHA model.
 
-23_09_07_miniMOCHA-theory-plots_3.nb: run the model and put together the model simulations shown in Figure 2 of the manuscript.
+23_09_07_MOCHA-theory-plots_3.nb: run the model and put together the model simulations shown in Figure 2 of the manuscript.
 
 23_09_08_model_fits_4.nb: fit the model to the data, and plot the outcome.
 
