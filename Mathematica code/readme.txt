@@ -13,3 +13,5 @@ This folder contains the Mathematica code for the MOCHA model.
 23_09_07_plot_data_and_simulations_4.wl: functions for plotting
 
 23_09_08_export_parameters_1.nb, 23_10_30_export_data_points.nb: export fitted parameters and simulations
+
+Ochromonas_TradeoffFunctions_for_MOCHA: the experimental data we use to fit the model
